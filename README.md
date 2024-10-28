@@ -2,7 +2,7 @@
 
 ### [Check Project Demo App!](https://anagale-ecommerce.vercel.app/)
 
-[Know more about the Developer!](https://bento.me/anag)
+ [Know more about the Developer](https://bento.me/anag)
 
 ## ✔️ Introduction
 
@@ -13,16 +13,24 @@ Welcome to **Anagale** – a project focused on developing frontend solutions us
 ## Become a Frontend Next.js Developer - Full Project Guide
 
 ### Project Preview
-
+### Project Preview
 <table>
   <tr>
-    <td><a href='Home'><img src="./public/assets/images/homegit.png" style="width: 300px"/></a></td>
-    <td><a href='List'><img src="./public/assets/images/listgit.png" style="width: 300px"/></a></td>
-    <td><a href='Cart'><img src="./public/assets/images/cartgit.png" style="width: 300px"/></a></td>
-     <td><a href='Categories'><img src="./public/assets/images/categoriesgit.png" style="width: 300px"/></a></td>
-      <td><a href='Account Management'><img src="./public/assets/images/signingit.png" style="width: 300px"/></a></td>
+    <td><a href="Home"><img src="./public/assets/images/homegit.png" style="width: 400px; height: 300px; object-fit: contain;"/></a></td>
+    <td><a href="Account Management"><img src="./public/assets/images/logo.svg" style="width: 400px; height: 300px; object-fit: contain;"/></a></td>
+    <td><a href="Cart"><img src="./public/assets/images/cartgit.png" style="width: 400px; height: 300px; object-fit: contain;"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="Categories"><img src="./public/assets/images/categoriesgit.png" style="width: 400px; height: 300px; object-fit: contain;"/></a></td>
+    <td><a href="Account Management"><img src="./public/assets/images/signingit.png" style="width: 400px; height: 300px; object-fit: contain;"/></a></td>
+    <td><a href="List"><img src="./public/assets/images/listgit.png" style="width: 400px; height: 300px; object-fit: contain;"/></a></td>
+    
   </tr>
 </table>
+
+
+
+
 
 ## 🎯 Key Skills Learned
 
