@@ -1,6 +1,7 @@
 # Anagale - Full Project Documentation
 
-[Check Project Demo App!](https://anagale-ecommerce.vercel.app/))
+### [Check Project Demo App!](https://anagale-ecommerce.vercel.app/)
+
 [Know more about the Developer!](https://bento.me/anag)
 
 ## ✔️ Introduction
